@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="register">Button</string>
+    <string name="display">Button</string>
+    <string name="registerb">register</string>
+    <string name="favourities">Favourities</string>
+    <string name="edit">Edit</string>
+    <string name="search">Button</string>
+    <string name="searchb">search</string>
+    <string name="rating">rating</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="title_of_the_movie">Title of the movie</string>
+    <string name="year_after_1895">Year (After 1895)</string>
+    <string name="name_of_the_actor_actress">Name of the actor/actress</string>
+    <string name="name_of_the_director">Name of the Director</string>
+    <string name="enter_rating_1_10">Enter rating 1 - 10</string>
+    <string name="enter_movie_review">Enter movie review</string>
+    <string name="addtofavourite">addToFavourite</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="save">Save</string>
+    <string name="description">description</string>
+    <string name="type_here">Type Here</string>
+    <string name="Search">Look Up</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="app_logo">app logo</string>
+    <string name="logo">logo</string>
+    <string name="app_name">Movie Lounge</string>
+    <string name="update">update</string>
+    <string name="submit">submit</string>
+    <string name="display_button">display</string>
+    <string name="find">Find</string>
+</resources>
